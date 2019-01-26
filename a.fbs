@@ -1,0 +1,7 @@
+enum Color : byte { Red = 1, Green, Blue }
+
+struct Vec3 {
+  x:float;
+  y:float;
+  z:float;
+}

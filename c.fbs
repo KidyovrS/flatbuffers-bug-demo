@@ -1,0 +1,7 @@
+include "a.fbs";
+
+table Monster {
+  pos:Vec3;
+}
+
+root_type Monster;
